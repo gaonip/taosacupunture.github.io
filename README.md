@@ -1,1 +1,3 @@
-# taosacupunctue
+---
+permalink: /index.html
+---
